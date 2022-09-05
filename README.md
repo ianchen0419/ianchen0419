@@ -18,9 +18,11 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=ianchen0419&show_icons=true"/></p>
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Promise](https://medium.com/@ianchen0419/javascript-promise-e9d878630248?source=rss-452bf17ece39------2)
-- [iPhone 悠遊卡 NFC 踩雷失敗記](https://medium.com/@ianchen0419/iphone-%E6%82%A0%E9%81%8A%E5%8D%A1-nfc-%E8%B8%A9%E9%9B%B7%E5%A4%B1%E6%95%97%E8%A8%98-7478fcf23ccf?source=rss-452bf17ece39------2)
-- [關於雙主修](https://medium.com/@ianchen0419/%E9%97%9C%E6%96%BC%E9%9B%99%E4%B8%BB%E4%BF%AE-3027ccb17558?source=rss-452bf17ece39------2)
-- [Dialogue Box](https://medium.com/@ianchen0419/dialogue-box-32668c5ad796?source=rss-452bf17ece39------2)
-- [iframe的Drive框架應用](https://medium.com/@ianchen0419/iframe%E7%9A%84drive%E6%A1%86%E6%9E%B6%E6%87%89%E7%94%A8-c3f9642c4668?source=rss-452bf17ece39------2)
+- [TailwindCSSで色を追加する方法](https://zenn.dev/ianchen0419/articles/770a33a726035f)
+- [Amplifyで色を追加する方法](https://zenn.dev/ianchen0419/articles/84bb182ba1790d)
+- [Feather Iconsでカスタムアイコンを作る](https://zenn.dev/ianchen0419/articles/78236798310351)
+- [JavaScriptのConstructor nameをゲット](https://zenn.dev/ianchen0419/articles/54ef49770a9601)
+- [FirebaseでPOST APIを作ろう](https://zenn.dev/ianchen0419/articles/5044dd13d9ba6c)
+- [Postmanの使い方](https://zenn.dev/ianchen0419/articles/7b11b8a11f2481)
+- [REST vs GraphQL](https://zenn.dev/ianchen0419/articles/bfcdcb933af6ef)
 <!-- BLOG-POST-LIST:END -->
