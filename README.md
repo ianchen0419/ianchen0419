@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there</h1>
+# 👋 Hi there
 
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianchen0419&show_icons=true&locale=en&layout=compact&count_private=false"/></p>
 
@@ -13,7 +13,7 @@
 
 - 😄 Pronouns: she/her 
 
-<h1 align="center">Latest Blog Posts</h1>
+# Latest Blog Posts
 
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=ianchen0419&show_icons=true"/></p>
 
