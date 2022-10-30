@@ -18,11 +18,11 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=ianchen0419&show_icons=true"/></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Firebaseを使ってStatic Websiteをデプロイ](https://zenn.dev/ianchen0419/articles/9934e5a4d61e2c)
 - [StorybookのDocsBlockを触ってみる](https://zenn.dev/ianchen0419/articles/af0ce90a2b1d56)
 - [Grid track numberの見方と指定](https://zenn.dev/ianchen0419/articles/5c1447f32afaf6)
 - [デバッグのGrid linesの見方](https://zenn.dev/ianchen0419/articles/70a5e01d347428)
 - [TailwindCSSのCSSファイルの分割・インポートする方法](https://zenn.dev/ianchen0419/articles/e3243a945762bb)
 - [TailwindCSSで色を追加する方法](https://zenn.dev/ianchen0419/articles/770a33a726035f)
 - [Amplifyで色を追加する方法](https://zenn.dev/ianchen0419/articles/84bb182ba1790d)
-- [Feather Iconsでカスタムアイコンを作る](https://zenn.dev/ianchen0419/articles/78236798310351)
 <!-- BLOG-POST-LIST:END -->
