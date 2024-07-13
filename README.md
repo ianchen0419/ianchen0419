@@ -18,11 +18,11 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=ianchen0419&show_icons=true"/></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyper-VのVMがコネクトできない対策](https://zenn.dev/ianchen0419/articles/15ac40b1788aca)
 - [VMware vSphereでバージョンをチェックする方法](https://zenn.dev/ianchen0419/articles/da7bed7b0f47fc)
 - [tracerouteで目的IPまでの経路を見よう](https://zenn.dev/ianchen0419/articles/5553477a891fb0)
 - [ボランティア活動の重要性](https://zenn.dev/ianchen0419/articles/b550b96cbe47a6)
 - [Win11の日本語入力の「あ」と「A」をなくす方法](https://zenn.dev/ianchen0419/articles/e9ebba0ebdf0c8)
 - [Vue3筆記](https://zenn.dev/ianchen0419/books/ba055f11e890a4)
 - [JavaScript Interview Preparation](https://zenn.dev/ianchen0419/books/2d26cdfbac59c7)
-- [Technical Foundation](https://zenn.dev/ianchen0419/books/6726e56f01f939)
 <!-- BLOG-POST-LIST:END -->
