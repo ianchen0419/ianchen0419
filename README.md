@@ -18,11 +18,11 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=ianchen0419&show_icons=true"/></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windowsでブロックサイズを確認する方法](https://zenn.dev/ianchen0419/articles/189b6fd73cc0df)
 - [Azure VMでログインできるユーザーを設定](https://zenn.dev/ianchen0419/articles/d96abe8e80e904)
 - [Azure公式ドキュメントの見方](https://zenn.dev/ianchen0419/articles/6ea64e9bfe0361)
 - [Active DirectoryからAttribute Editorが見れない対処法](https://zenn.dev/ianchen0419/articles/14cd7b2cb6de74)
 - [Hyper-VのVMがインターネット繋がらない対処法](https://zenn.dev/ianchen0419/articles/e91db99c41da23)
 - [WindowsのCドライブからProgramDataを見られる方法](https://zenn.dev/ianchen0419/articles/0bad907be6ab54)
 - [計算機網路概論](https://zenn.dev/ianchen0419/books/a028e39c91be5c)
-- [PowerPointからSVG画像を抽出する方法](https://zenn.dev/ianchen0419/articles/1cc9704838e9e5)
 <!-- BLOG-POST-LIST:END -->
