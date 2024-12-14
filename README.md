@@ -5,7 +5,7 @@
 
 - ❤️ I'm a React/Angular Enthusiast
 
-- 🌱 I'm currently learning **Amplify, TypeScript**
+- 🌱 I'm currently learning **Azure**
 
 - 📝 I regularly write Chinese articles on [https://medium.com/@ianchen0419](https://medium.com/@ianchen0419) and Japanese articles on [https://zenn.dev/ianchen0419](https://zenn.dev/ianchen0419)
 
