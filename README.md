@@ -9,7 +9,7 @@
 
 - 📝 I regularly write Chinese articles on [https://medium.com/@ianchen0419](https://medium.com/@ianchen0419) and Japanese articles on [https://zenn.dev/ianchen0419](https://zenn.dev/ianchen0419)
 
-- 📫 How to reach me `ianchen0419@gamil.com`
+- 📫 How to reach me `ianchen0419@gmail.com`
 
 - 😄 Pronouns: she/her 
 
