@@ -24,5 +24,5 @@
 - [photopeaで画像にモザイクを入れよう](https://zenn.dev/ianchen0419/articles/cc992732f6610a)
 - [Azure VMのWindowsのログインパスワードを期限切れにさせない](https://zenn.dev/ianchen0419/articles/96187247ff6e2b)
 - [Azure VM RDP接続ができないとき](https://zenn.dev/ianchen0419/articles/b27d0fcf32e8f8)
-- [台湾人の「報・連・相」文化](https://zenn.dev/ianchen0419/articles/b56e998339888a)
+- [WindowsのLocal Security PolicyでNetwork Encryptionを見よう](https://zenn.dev/ianchen0419/articles/2c8955fb743b4b)
 <!-- BLOG-POST-LIST:END -->
