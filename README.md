@@ -18,11 +18,11 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=ianchen0419&show_icons=true"/></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [網路不難團](https://zenn.dev/ianchen0419/books/feaa1e55374909)
 - [AzCopyを使ってファイルをStorage Accountにアップロードしよう](https://zenn.dev/ianchen0419/articles/0023c3ea172225)
 - [VHDXファイルをVMDKファイルに変換しよう](https://zenn.dev/ianchen0419/articles/81d4199f87d0db)
 - [Azureのアカウント権限を確認しよう](https://zenn.dev/ianchen0419/articles/3fbb37d06eea7e)
 - [photopeaで画像にモザイクを入れよう](https://zenn.dev/ianchen0419/articles/cc992732f6610a)
 - [Azure VMのWindowsのログインパスワードを期限切れにさせない](https://zenn.dev/ianchen0419/articles/96187247ff6e2b)
 - [Azure VM RDP接続ができないとき](https://zenn.dev/ianchen0419/articles/b27d0fcf32e8f8)
-- [WindowsのLocal Security PolicyでNetwork Encryptionを見よう](https://zenn.dev/ianchen0419/articles/2c8955fb743b4b)
 <!-- BLOG-POST-LIST:END -->
