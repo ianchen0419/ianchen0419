@@ -18,11 +18,11 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=ianchen0419&show_icons=true"/></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [IIS Managerをインストールしましょう](https://zenn.dev/ianchen0419/articles/8fbe310d8f6418)
+- [Fiddlerを使ってみよう](https://zenn.dev/ianchen0419/articles/7560671cb36871)
+- [Microsoft Foundryを使ってみる](https://zenn.dev/ianchen0419/articles/7382e909e52ae8)
 - [Azure Machine Learning](https://zenn.dev/ianchen0419/articles/ce879ffcb51923)
 - [AVSの仮想マシンにコピペ機能を有効する方法](https://zenn.dev/ianchen0419/articles/88ab609eb8c32b)
 - [telnetコマンドを使おう](https://zenn.dev/ianchen0419/articles/77ec0cb3f2a340)
 - [網路不難團](https://zenn.dev/ianchen0419/books/feaa1e55374909)
-- [AzCopyを使ってファイルをStorage Accountにアップロードしよう](https://zenn.dev/ianchen0419/articles/0023c3ea172225)
-- [VHDXファイルをVMDKファイルに変換しよう](https://zenn.dev/ianchen0419/articles/81d4199f87d0db)
-- [Azureのアカウント権限を確認しよう](https://zenn.dev/ianchen0419/articles/3fbb37d06eea7e)
 <!-- BLOG-POST-LIST:END -->
