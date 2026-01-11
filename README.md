@@ -18,11 +18,11 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=ianchen0419&show_icons=true"/></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Resource Managerテンプレートをデプロイ](https://zenn.dev/ianchen0419/articles/9a6c09532bcb3d)
 - [PowerShellコマンドの練習](https://zenn.dev/ianchen0419/articles/aad2bd95ecbc3d)
 - [Microsoft FoundryでContent Understandingを使おう](https://zenn.dev/ianchen0419/articles/0d095d0b4cae59)
 - [Microsoft FoundryでComputer Visionを使おう](https://zenn.dev/ianchen0419/articles/16e947c849c530)
 - [Microsoft FoundryでAzure Speechを使おう](https://zenn.dev/ianchen0419/articles/145e3afc9c8b3a)
 - [Microsoft FoundryでLanguague + Translatorを使おう](https://zenn.dev/ianchen0419/articles/779785dc38b9b3)
 - [IIS Managerをインストールしましょう](https://zenn.dev/ianchen0419/articles/8fbe310d8f6418)
-- [Fiddlerを使ってみよう](https://zenn.dev/ianchen0419/articles/7560671cb36871)
 <!-- BLOG-POST-LIST:END -->
