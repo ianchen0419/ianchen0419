@@ -18,11 +18,11 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=ianchen0419&show_icons=true"/></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Routeの練習](https://zenn.dev/ianchen0419/articles/7db33cb78bbb73)
 - [DNS Zoneの練習](https://zenn.dev/ianchen0419/articles/c96a7fc81724a3)
 - [Azure Cloud Shell](https://zenn.dev/ianchen0419/articles/70a90b398a40ca)
 - [Azure RBACの練習](https://zenn.dev/ianchen0419/articles/4a4346f852563c)
 - [Entra IDでユーザーを管理](https://zenn.dev/ianchen0419/articles/9dd301f786010f)
 - [Azure Resource Managerテンプレートをデプロイ](https://zenn.dev/ianchen0419/articles/9a6c09532bcb3d)
 - [PowerShellコマンドの練習](https://zenn.dev/ianchen0419/articles/aad2bd95ecbc3d)
-- [Microsoft FoundryでContent Understandingを使おう](https://zenn.dev/ianchen0419/articles/0d095d0b4cae59)
 <!-- BLOG-POST-LIST:END -->
